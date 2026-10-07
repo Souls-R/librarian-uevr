@@ -1,0 +1,6 @@
+dist/
+*.log
+**/log.txt
+**/data/*-status.json
+**/data/*-loader.json
+**/data/*-inspect.json

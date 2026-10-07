@@ -1,0 +1,10 @@
+{
+  "aim_yaw_degrees": -2,
+  "aim_pitch_degrees": -2,
+  "title_gap_pixels": 24,
+  "title_smoothing_seconds": 0.12,
+  "title_deadzone_pixels": 3,
+  "held_label_right_pixels": 90,
+  "held_label_up_pixels": 64,
+  "held_label_smoothing_seconds": 0.18
+}
